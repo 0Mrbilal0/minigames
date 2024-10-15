@@ -4,7 +4,7 @@
 
 Lorsqu'on lance le jeu, un niveau de difficulté est proposé entre facile, normal et difficile.
 
-![Image du choix de la difficultée]()
+![Image du choix de la difficultée](https://github.com/0Mrbilal0/minigames/blob/main/nothing_price_pictures/nothingpricediff.png)
 
 ----
 
